@@ -1,0 +1,13 @@
+
+   
+/* Este é um comentário em CSS */
+/* Aqui está um comentário de várias linhas
+   que é muito longo e será dividido em várias linhas
+   para facilitar a leitura. */
+
+   /* Reset CSS */
+   * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
